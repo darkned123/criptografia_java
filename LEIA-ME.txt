@@ -1,0 +1,1 @@
+EMPC = exponenciação modular pré-computada :|
